@@ -1,9 +1,16 @@
 ## Hi there 👋
 
+Software Engineer
+
+- 🎮 I’m currently working on Dev Tools and PS5 Applications at PlayStation
+- 🌱 I’m currently learning Cloud Technologies - (AWS, Terraform, Ansible...)
+- 🎓 University of Waterloo '21
+- 📫 You can reach me on LinkedIn (Zhuo Jue Lee)
+
 <!--
 **zhuojuelee/zhuojuelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to 🎮 you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
