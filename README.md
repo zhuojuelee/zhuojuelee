@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hey there, I'm Lian 👋
 
-Software Engineer
+💻 Software Engineer
 
 - 🎮 I’m currently working on Dev Tools and PS5 Applications at PlayStation
 - 🌱 I’m currently learning Cloud Technologies - (AWS, Terraform, Ansible...)
