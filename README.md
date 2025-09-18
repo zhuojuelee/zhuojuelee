@@ -1,8 +1,6 @@
 ## Hey there, I'm Lian 👋
 
 💻 Software Engineer
-
-- 🎮 I’m currently working on Dev Tools and PS5 Applications at PlayStation
 - 🌱 I’m currently learning Cloud Technologies - (AWS, Terraform, Ansible...)
 - 🎓 University of Waterloo '21
 - 📫 You can reach me on LinkedIn (Zhuo Jue Lee)
